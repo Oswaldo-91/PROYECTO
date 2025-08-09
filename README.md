@@ -1,11 +1,24 @@
 # Proyecto: Bitácora de Consumo de Agua
 
+**Autor(a): ASHLEY ANNABELLE CARRERA RUIZ 
+**Curso:** Lógica de Programación – Paso 1 y Paso 2
+
+
 Este proyecto es un ejemplo **simple** para cumplir el *Paso 1* y *Paso 2* del deber de **Lógica de Programación**. Incluye:
 - Código en Python con **estructuras lógicas** (`if/elif/else`) y **estructuras repetitivas** (`while` y `for`).
 - **Diagrama de flujo** en formato Mermaid (`flowchart.mmd`) que puedes visualizar en GitHub o VS Code.
 - Archivos listos para subir a **GitHub**.
 
 > Requisitos: Windows 10/11, conexión a Internet, una cuenta en GitHub.
+
+### Posición del estudiante (Paso 1)
+Elegí este tema porque me permite practicar condicionales y bucles con datos numéricos simples, sin distraerme con interfaces gráficas. Priorizo claridad y trazabilidad del flujo en consola. Reconozco como límite la falta de persistencia automática; la dejo como mejora futura (CSV/JSON).
+### Conclusiones y logros (Paso 1)
+- Logré un menú funcional con validación de entradas y comparación con meta.
+- El repositorio público contiene código, diagrama y README con mi reflexión.
+- Próximo paso priorizado: guardar y recargar datos automáticamente.
+
+
 
 ---
 

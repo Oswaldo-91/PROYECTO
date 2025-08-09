@@ -17,6 +17,10 @@ Este repositorio contiene el avance del proyecto de Lógica de Programación.
 Incluye el código en Python y el diagrama de flujo desarrollado para el control del consumo de agua.
 
 **Repositorio público:** [https://github.com/Oswaldo-91/PROYECTO](https://github.com/Oswaldo-91/PROYECTO)
+📂 **Archivos del proyecto**  
+- [Diagrama de flujo (flowchart.mmd)](https://github.com/Oswaldo-91/PROYECTO/blob/main/flowchart.mmd)  
+- [Código fuente en Python (main.py)](https://github.com/Oswaldo-91/PROYECTO/blob/main/main.py)  
+
 
 
 ---

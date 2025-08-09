@@ -1,0 +1,19 @@
+flowchart TD
+    A[Inicio] --> B{Mostrar menú}
+    B -->|1 Registrar consumo| C[Solicitar litros del día]
+    C --> D{Entrada válida?}
+    D -->|No| C2[Mostrar error y repetir] --> C
+    D -->|Sí| E[Guardar consumo en lista] --> B
+    B -->|2 Definir meta diaria| F[Solicitar meta (litros)]
+    F --> G{Entrada válida?}
+    G -->|No| F2[Mostrar error y repetir] --> F
+    G -->|Sí| H[Guardar meta] --> B
+    B -->|3 Ver promedio semanal| I[Calcular promedio]
+    I --> J{¿Promedio > meta?}
+    J -->|Sí| K[Mostrar alerta de sobreconsumo]
+    J -->|No| L[Mostrar mensaje dentro de meta]
+    K --> B
+    L --> B
+    B -->|4 Listar consumos| M[Mostrar lista]
+    M --> B
+    B -->|5 Salir| Z[Fin]

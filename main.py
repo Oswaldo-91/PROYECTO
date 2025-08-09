@@ -1,9 +1,10 @@
 """
-Bitácora de Consumo de Agua (versión simple para el curso de Lógica de Programación)
-
-Objetivo: Demostrar uso de estructuras lógicas (if/elif/else) y repetitivas (while/for)
-Autor: Estudiante
+Bitácora de Consumo de Agua – versión Rebeca Gonzales
+Curso: Lógica de Programación
+Autor: Rebeca Gonzales
+Nota personal: este ejercicio lo hice para practicar condicionales/bucles en consola.
 """
+
 
 from statistics import mean
 

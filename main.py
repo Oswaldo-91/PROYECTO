@@ -1,8 +1,13 @@
 """
-Bitácora de Consumo de Agua – versión Rebeca Gonzales
-Curso: Lógica de Programación
-Autor: Rebeca Gonzales
-Nota personal: este ejercicio lo hice para practicar condicionales/bucles en consola.
+"""
+Proyecto: Bitácora de Consumo de Agua
+Autor: ASHLEY ANNABELLE CARRERA RUIZ 
+Fecha: [09/08/2025]
+Descripción: Registro y análisis de consumo de agua usando Python.
+"""
+
+# Resto del código igual...
+
 """
 
 
